@@ -1,0 +1,24 @@
+{
+  "financialTransactionInitiationServiceName" : "financialTransactionInitiationServiceName",
+  "financialTransactionInitiationInstanceAnalysis" : {
+    "financialTransactionInitiationInstanceAnalysisReport" : {},
+    "financialTransactionInitiationInstanceAnalysisRecord" : {},
+    "financialTransactionInitiationInstanceAnalysisParameters" : "financialTransactionInitiationInstanceAnalysisParameters",
+    "financialTransactionInitiationInstanceAnalysisReportType" : "financialTransactionInitiationInstanceAnalysisReportType"
+  },
+  "financialTransactionInitiationPreconditions" : "financialTransactionInitiationPreconditions",
+  "financialTransactionInitiationServiceWorkProduct" : "financialTransactionInitiationServiceWorkProduct",
+  "financialTransactionInitiationServiceDescription" : "financialTransactionInitiationServiceDescription",
+  "financialTransactionInitiationRetrieveActionTaskRecord" : {},
+  "financialTransactionInitiationFunctionSchedule" : "financialTransactionInitiationFunctionSchedule",
+  "financialTransactionInitiationRetrieveActionResponse" : "financialTransactionInitiationRetrieveActionResponse",
+  "financialTransactionInitiationServiceInputsandOuputs" : "financialTransactionInitiationServiceInputsandOuputs",
+  "financialTransactionInitiationRetrieveActionTaskReference" : "FTIRATR764985",
+  "financialTransactionInitiationServiceType" : "financialTransactionInitiationServiceType",
+  "financialTransactionInitiationInstanceReport" : {
+    "financialTransactionInitiationInstanceReportRecord" : {},
+    "financialTransactionInitiationInstanceReportParameters" : "financialTransactionInitiationInstanceReportParameters",
+    "financialTransactionInitiationInstanceReportType" : "financialTransactionInitiationInstanceReportType",
+    "financialTransactionInitiationInstanceReport" : {}
+  }
+}

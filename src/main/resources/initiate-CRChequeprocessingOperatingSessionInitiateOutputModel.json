@@ -1,0 +1,11 @@
+{
+  "chequeprocessingOperatingSessionInitiateActionReference" : "COSIAR740536",
+  "chequeProcessingOperatingSessionServiceType" : "chequeProcessingOperatingSessionServiceType",
+  "chequeProcessingOperatingSessionServiceProviderReference" : "CPOSSR743938",
+  "chequeprocessingOperatingSessionInstanceReference" : "COSIR750944",
+  "chequeprocessingOperatingSessionInitiateActionRecord" : {},
+  "chequeProcessingOperatingSessionType" : "chequeProcessingOperatingSessionType",
+  "chequeprocessingOperatingSessionInstanceStatus" : "chequeprocessingOperatingSessionInstanceStatus",
+  "chequeProcessingOperatingSessionReference" : "CPOSR722134",
+  "chequeProcessingOperatingSessionServiceProviderSchedule" : "chequeProcessingOperatingSessionServiceProviderSchedule"
+}

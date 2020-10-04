@@ -1,0 +1,13 @@
+{
+  "financialTransactionInitiationServiceName" : "financialTransactionInitiationServiceName",
+  "financialTransactionInitiationExchangeActionTaskReference" : "FTIEATR765268",
+  "financialTransactionInitiationExchangeActionTaskRecord" : {},
+  "financialTransactionInitiationPreconditions" : "financialTransactionInitiationPreconditions",
+  "financialTransactionInitiationServiceWorkProduct" : "financialTransactionInitiationServiceWorkProduct",
+  "financialTransactionInitiationServiceDescription" : "financialTransactionInitiationServiceDescription",
+  "financialTransactionInitiationFunctionSchedule" : "financialTransactionInitiationFunctionSchedule",
+  "financialTransactionInitiationServiceInputsandOuputs" : "financialTransactionInitiationServiceInputsandOuputs",
+  "financialTransactionInitiationExchangeActionResponse" : "financialTransactionInitiationExchangeActionResponse",
+  "financialTransactionInitiationInstanceStatus" : "financialTransactionInitiationInstanceStatus",
+  "financialTransactionInitiationServiceType" : "financialTransactionInitiationServiceType"
+}

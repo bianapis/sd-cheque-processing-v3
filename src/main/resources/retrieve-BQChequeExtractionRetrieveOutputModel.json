@@ -1,0 +1,24 @@
+{
+  "chequeExtractionInstanceReport" : {
+    "chequeExtractionInstanceReport" : {},
+    "chequeExtractionInstanceReportRecord" : {},
+    "chequeExtractionInstanceReportParameters" : "chequeExtractionInstanceReportParameters",
+    "chequeExtractionInstanceReportType" : "chequeExtractionInstanceReportType"
+  },
+  "chequeExtractionServiceInputsandOuputs" : "chequeExtractionServiceInputsandOuputs",
+  "chequeExtractionRetrieveActionResponse" : "chequeExtractionRetrieveActionResponse",
+  "chequeExtractionServiceWorkProduct" : "chequeExtractionServiceWorkProduct",
+  "chequeExtractionServiceDescription" : "chequeExtractionServiceDescription",
+  "chequeExtractionPreconditions" : "chequeExtractionPreconditions",
+  "chequeExtractionInstanceAnalysis" : {
+    "chequeExtractionInstanceAnalysisParameters" : "chequeExtractionInstanceAnalysisParameters",
+    "chequeExtractionInstanceAnalysisReport" : {},
+    "chequeExtractionInstanceAnalysisReportType" : "chequeExtractionInstanceAnalysisReportType",
+    "chequeExtractionInstanceAnalysisRecord" : {}
+  },
+  "chequeExtractionFunctionSchedule" : "chequeExtractionFunctionSchedule",
+  "chequeExtractionRetrieveActionTaskRecord" : {},
+  "chequeExtractionServiceName" : "chequeExtractionServiceName",
+  "chequeExtractionRetrieveActionTaskReference" : "CERATR705310",
+  "chequeExtractionServiceType" : "chequeExtractionServiceType"
+}

@@ -1,0 +1,24 @@
+{
+  "chequeProcessingServicingSessionRecord" : {},
+  "chequeProcessingServicingSessionReference" : "SSSR783215",
+  "chequeProcessingActivationActionTaskRecord" : {},
+  "chequeProcessingServicingSessionStatus" : "chequeProcessingServicingSessionStatus",
+  "chequeProcessingServiceConfigurationRecord" : {
+    "chequeProcessingServiceConfigurationSettingDescription" : "chequeProcessingServiceConfigurationSettingDescription",
+    "chequeProcessingServiceConfigurationSettingReference" : "700761",
+    "chequeProcessingServiceStatus" : "chequeProcessingServiceStatus",
+    "chequeProcessingServiceSubscription" : {
+      "chequeProcessingServiceSubscriberReference" : "769192",
+      "chequeProcessingServiceSubscriberAccessProfile" : "chequeProcessingServiceSubscriberAccessProfile"
+    },
+    "chequeProcessingServiceConfigurationSetup" : {
+      "chequeProcessingServiceConfigurationParameter" : "chequeProcessingServiceConfigurationParameter"
+    },
+    "chequeProcessingServiceAgreement" : {
+      "chequeProcessingServiceAgreementTermsandConditions" : "chequeProcessingServiceAgreementTermsandConditions",
+      "chequeProcessingServiceUserReference" : "767210",
+      "chequeProcessingServiceAgreementReference" : "791202"
+    }
+  },
+  "chequeProcessingActivationActionTaskReference" : "SAATR758836"
+}

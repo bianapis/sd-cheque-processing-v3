@@ -1,0 +1,23 @@
+{
+  "cancelledChequeHandlingRetrieveActionTaskRecord" : {},
+  "cancelledChequeHandlingServiceType" : "cancelledChequeHandlingServiceType",
+  "cancelledChequeHandlingServiceDescription" : "cancelledChequeHandlingServiceDescription",
+  "cancelledChequeHandlingServiceWorkProduct" : "cancelledChequeHandlingServiceWorkProduct",
+  "cancelledChequeHandlingInstanceAnalysis" : {
+    "cancelledChequeHandlingInstanceAnalysisReport" : {},
+    "cancelledChequeHandlingInstanceAnalysisParameters" : "cancelledChequeHandlingInstanceAnalysisParameters",
+    "cancelledChequeHandlingInstanceAnalysisReportType" : "cancelledChequeHandlingInstanceAnalysisReportType",
+    "cancelledChequeHandlingInstanceAnalysisRecord" : {}
+  },
+  "cancelledChequeHandlingRetrieveActionTaskReference" : "CCHRATR705681",
+  "cancelledChequeHandlingInstanceReport" : {
+    "cancelledChequeHandlingInstanceReportParameters" : "cancelledChequeHandlingInstanceReportParameters",
+    "cancelledChequeHandlingInstanceReportRecord" : {},
+    "cancelledChequeHandlingInstanceReport" : {},
+    "cancelledChequeHandlingInstanceReportType" : "cancelledChequeHandlingInstanceReportType"
+  },
+  "cancelledChequeHandlingPreconditions" : "cancelledChequeHandlingPreconditions",
+  "cancelledChequeHandlingRetrieveActionResponse" : "cancelledChequeHandlingRetrieveActionResponse",
+  "cancelledChequeHandlingServiceInputsandOuputs" : "cancelledChequeHandlingServiceInputsandOuputs",
+  "cancelledChequeHandlingFunctionSchedule" : "cancelledChequeHandlingFunctionSchedule"
+}

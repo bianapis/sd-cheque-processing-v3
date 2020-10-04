@@ -1,0 +1,24 @@
+{
+  "chequeProcessingOperatingSessionServiceType" : "chequeProcessingOperatingSessionServiceType",
+  "chequeProcessingOperatingSessionServiceProviderReference" : "CPOSSR704006",
+  "chequeprocessingOperatingSessionRetrieveActionResponse" : "chequeprocessingOperatingSessionRetrieveActionResponse",
+  "chequeProcessingOperatingSessionStatus" : "chequeProcessingOperatingSessionStatus",
+  "chequeprocessingOperatingSessionRetrieveActionTaskReference" : "COSRATR744647",
+  "chequeProcessingOperatingSessionSchedule" : "chequeProcessingOperatingSessionSchedule",
+  "chequeProcessingOperatingSessionServiceConfiguration" : "chequeProcessingOperatingSessionServiceConfiguration",
+  "chequeprocessingOperatingSessionInstanceAnalysis" : {
+    "chequeprocessingOperatingSessionInstanceAnalysisReportType" : "chequeprocessingOperatingSessionInstanceAnalysisReportType",
+    "chequeprocessingOperatingSessionInstanceAnalysisReport" : {},
+    "chequeprocessingOperatingSessionInstanceAnalysisData" : "chequeprocessingOperatingSessionInstanceAnalysisData"
+  },
+  "chequeProcessingOperatingSessionUsageLog" : "chequeProcessingOperatingSessionUsageLog",
+  "chequeprocessingOperatingSessionInstanceReportRecord" : {
+    "chequeprocessingOperatingSessionInstanceReportData" : "chequeprocessingOperatingSessionInstanceReportData",
+    "chequeprocessingOperatingSessionInstanceReportType" : "chequeprocessingOperatingSessionInstanceReportType",
+    "chequeprocessingOperatingSessionInstanceReport" : {}
+  },
+  "chequeprocessingOperatingSessionRetrieveActionTaskRecord" : {},
+  "chequeProcessingOperatingSessionType" : "chequeProcessingOperatingSessionType",
+  "chequeProcessingOperatingSessionReference" : "CPOSR780725",
+  "chequeProcessingOperatingSessionServiceProviderSchedule" : "chequeProcessingOperatingSessionServiceProviderSchedule"
+}

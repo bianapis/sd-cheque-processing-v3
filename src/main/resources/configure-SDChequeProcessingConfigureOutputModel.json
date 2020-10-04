@@ -1,0 +1,21 @@
+{
+  "chequeProcessingConfigurationActionTaskRecord" : {},
+  "chequeProcessingServicingSessionStatus" : "chequeProcessingServicingSessionStatus",
+  "chequeProcessingServiceConfigurationRecord" : {
+    "chequeProcessingServiceConfigurationSettingDescription" : "chequeProcessingServiceConfigurationSettingDescription",
+    "chequeProcessingServiceStatus" : "chequeProcessingServiceStatus",
+    "chequeProcessingServiceSubscription" : {
+      "chequeProcessingServiceSubscriberReference" : "756221",
+      "chequeProcessingServiceSubscriberAccessProfile" : "chequeProcessingServiceSubscriberAccessProfile"
+    },
+    "chequeProcessingServiceConfigurationSetup" : {
+      "chequeProcessingServiceConfigurationParameter" : "chequeProcessingServiceConfigurationParameter"
+    },
+    "chequeProcessingServiceAgreement" : {
+      "chequeProcessingServiceAgreementTermsandConditions" : "chequeProcessingServiceAgreementTermsandConditions",
+      "chequeProcessingServiceUserReference" : "733696",
+      "chequeProcessingServiceAgreementReference" : "721156"
+    }
+  },
+  "chequeProcessingConfigurationActionTaskReference" : "SCATR765419"
+}

@@ -1,0 +1,11 @@
+{
+  "chequeProcessingOperatingSessionServiceType" : "chequeProcessingOperatingSessionServiceType",
+  "requestRecordReference" : "RRR784709",
+  "chequeProcessingOperatingSessionServiceProviderReference" : "CPOSSR728132",
+  "chequeprocessingOperatingSessionRequestActionTaskReference" : "COSRATR765466",
+  "chequeProcessingOperatingSessionType" : "chequeProcessingOperatingSessionType",
+  "chequeprocessingOperatingSessionRequestActionTaskRecord" : {},
+  "chequeProcessingOperatingSessionReference" : "CPOSR713603",
+  "chequeProcessingOperatingSessionServiceProviderSchedule" : "chequeProcessingOperatingSessionServiceProviderSchedule",
+  "requestResponseRecord" : {}
+}

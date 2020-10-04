@@ -1,0 +1,39 @@
+{
+  "chequeProcessingRetrieveActionResponse" : "chequeProcessingRetrieveActionResponse",
+  "chequeProcessingOfferedService" : {
+    "chequeProcessingServiceReference" : "776158",
+    "chequeProcessingServiceRecord" : {
+      "chequeProcessingServiceType" : "chequeProcessingServiceType",
+      "chequeProcessingServiceDescription" : "chequeProcessingServiceDescription",
+      "chequeProcessingServicePoliciesandGuidelines" : {
+        "chequeProcessingServicePricingandTerms" : "chequeProcessingServicePricingandTerms",
+        "chequeProcessingServiceEligibility" : "chequeProcessingServiceEligibility",
+        "chequeProcessingServiceIntendedUses" : "chequeProcessingServiceIntendedUses"
+      },
+      "chequeProcessingServiceSchedule" : "chequeProcessingServiceSchedule",
+      "chequeProcessingServiceVersion" : "chequeProcessingServiceVersion"
+    }
+  },
+  "chequeProcessingRetrieveActionTaskRecord" : {},
+  "chequeProcessingRetrieveActionTaskReference" : "SRATR795161",
+  "chequeProcessingRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "chequeProcessingActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "chequeProcessingPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    }
+  }
+}

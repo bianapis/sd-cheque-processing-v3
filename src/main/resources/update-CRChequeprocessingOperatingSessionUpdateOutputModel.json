@@ -1,0 +1,10 @@
+{
+  "chequeprocessingOperatingSessionUpdateActionTaskRecord" : {},
+  "chequeProcessingOperatingSessionServiceType" : "chequeProcessingOperatingSessionServiceType",
+  "chequeProcessingOperatingSessionServiceProviderReference" : "CPOSSR799508",
+  "updateResponseRecord" : {},
+  "chequeprocessingOperatingSessionUpdateActionTaskReference" : "COSUATR707507",
+  "chequeProcessingOperatingSessionType" : "chequeProcessingOperatingSessionType",
+  "chequeProcessingOperatingSessionReference" : "CPOSR727131",
+  "chequeProcessingOperatingSessionServiceProviderSchedule" : "chequeProcessingOperatingSessionServiceProviderSchedule"
+}

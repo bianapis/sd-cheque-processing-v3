@@ -1,0 +1,11 @@
+{
+  "cancelledChequeHandlingServiceType" : "cancelledChequeHandlingServiceType",
+  "cancelledChequeHandlingServiceDescription" : "cancelledChequeHandlingServiceDescription",
+  "cancelledChequeHandlingUpdateActionTaskRecord" : {},
+  "cancelledChequeHandlingServiceWorkProduct" : "cancelledChequeHandlingServiceWorkProduct",
+  "updateResponseRecord" : {},
+  "cancelledChequeHandlingPreconditions" : "cancelledChequeHandlingPreconditions",
+  "cancelledChequeHandlingServiceInputsandOuputs" : "cancelledChequeHandlingServiceInputsandOuputs",
+  "cancelledChequeHandlingFunctionSchedule" : "cancelledChequeHandlingFunctionSchedule",
+  "cancelledChequeHandlingUpdateActionTaskReference" : "CCHUATR747527"
+}

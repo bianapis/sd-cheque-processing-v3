@@ -1,0 +1,10 @@
+{
+  "chequeProcessingOperatingSessionServiceType" : "chequeProcessingOperatingSessionServiceType",
+  "chequeprocessingOperatingSessionExchangeActionTaskRecord" : {},
+  "chequeprocessingOperatingSessionExchangeActionResponse" : "chequeprocessingOperatingSessionExchangeActionResponse",
+  "chequeProcessingOperatingSessionServiceProviderReference" : "CPOSSR774019",
+  "chequeprocessingOperatingSessionExchangeActionTaskReference" : "COSEATR747099",
+  "chequeProcessingOperatingSessionType" : "chequeProcessingOperatingSessionType",
+  "chequeProcessingOperatingSessionReference" : "CPOSR750647",
+  "chequeProcessingOperatingSessionServiceProviderSchedule" : "chequeProcessingOperatingSessionServiceProviderSchedule"
+}
